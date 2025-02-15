@@ -18,6 +18,16 @@
         SJSU ID : 016762174
         Email ID: akhilandeswari.battineni@sjsu.edu
 
+## User Interface
+
+![UI](images/finaldemo.png)
+
+* This user interface provides a simple and effective way for medical practitioner to interact with this application
+
+* More details on the project can be found in the report which is stored in this repository
+
+* ARCADE directory contains the code of original paper's code
+  
 ## Project Stacks
     * PyTorch
     * GradIO (website application)
@@ -36,15 +46,7 @@
     4. Run following command
         * python deploy.py
 
-## User Interface
 
-![UI](images/finaldemo.png)
-
-* This user interface provides a simple and effective way for medical practitioner to interact with this application
-
-* More details on the project can be found in the report which is stored in this repository
-
-* ARCADE directory contains the code of original paper's code
 ## Area of Contribution
     1. Pratikkumar Dalsukhbhai Korat
         > Training and Evaluation of Model, Literature review, Technical Documentation, Deployment
